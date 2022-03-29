@@ -1,0 +1,6 @@
+{
+    "manifest_version": 2,
+   "name": "Airens Artefact",
+    "description": "This extension helps users report deepfakes",
+    "version": "2.0"
+}
